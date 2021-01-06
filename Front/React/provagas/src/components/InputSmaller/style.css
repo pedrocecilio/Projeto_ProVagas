@@ -1,0 +1,29 @@
+.smaller-input {
+    width: 19.5vw;
+    height: 40px;
+    border: .7px solid #a9a9a9;
+    box-sizing: border-box;
+    border-radius: .3rem;
+    padding: 0.5rem;
+}
+
+label {
+    font-size: 15px;
+    font-weight: normal;
+    /* background-color: lightblue; */
+    align-self: flex-start;
+}
+
+.box-input-smaller {
+    display: flex;
+    flex-direction: column;
+    /* background-color: khaki; */
+    width: 40vh;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.input-duplo {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,17 @@
+.cadastroEmpresa{
+  padding-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-banner-candidato{
+    display:flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.box-banner-candidato img{
+  width: 50%;
+}

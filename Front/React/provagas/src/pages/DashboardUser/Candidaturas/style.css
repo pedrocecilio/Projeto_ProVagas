@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.candidaturacenter .candidaturash1 {
+    margin-left: 52%;
+    padding-top: 10%;
+}
+
+.box-shadows {
+    border: 1px solid #dcdcdc;
+    width: 920px;
+    height: 250px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #dcdcdc;
+    margin-left: 35%
+  
+}
+
+.rowa {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 35px 20px 35px 20px;
+    margin-top: -2.5rem;
+}
+
+.espacamento {
+    padding: 0 0 35px 0;
+}
+
+.coluna {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+
+
+.status p {
+    font-size: 15px;
+    margin-left: 10%;
+}

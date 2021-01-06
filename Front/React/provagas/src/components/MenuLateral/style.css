@@ -1,0 +1,24 @@
+.menuAdm{
+    background-color: rgba(0, 0, 0, 0.79);
+        height: 100%;
+        text-decoration: none;
+        position: fixed;
+        width: 20%;
+        color: white;
+        margin-top: -5.5%;
+}
+
+.menuAdm ul{
+    margin-top: 30px;
+}
+
+.menuAdm ul hr{
+    width: 100%;
+    margin-top: 5px;
+    border: 1px unset white ;
+}
+
+.menuAdm ul li{
+    list-style-type: none;
+    margin: 20px 0 0 60px;
+}

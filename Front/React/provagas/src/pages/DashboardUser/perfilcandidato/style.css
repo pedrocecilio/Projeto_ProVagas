@@ -1,0 +1,46 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.rowlin {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.bh {}
+
+.rowlin {
+    margin-left: 19.6%;
+}
+
+.hs p {
+    margin-left: 56.8%;
+}
+
+.btnao {
+    margin-left: 20.5%;
+}
+
+.habilidades select {
+    width: 180px;
+    height: 50px;
+    border: 1px solid #dcdcdc;
+    box-shadow: 5px 5px 5px 5px #dcdcdc;
+}
+
+.aceita select {
+    width: 180px;
+    height: 50px;
+    border: 1px solid #dcdcdc;
+    box-shadow: 5px 5px 5px 5px #dcdcdc;
+}
+
+.h234 {
+    margin-left: 52%;
+    align-content: center;
+    display: flex;
+    padding-top: 10%;
+}

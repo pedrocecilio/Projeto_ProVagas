@@ -1,0 +1,527 @@
+{
+	"info": {
+		"_postman_id": "3d0ca2bf-a3f7-431a-b640-9dd92f9728f6",
+		"name": "ProVagas",
+		"description": "Requisições do projeto realizado para o SENAI.\r\n\r\nNome do Projeto: SENAI ProVagas.\r\n\r\nEquipe de desenvolvimento:\r\n                            - Carla Dias\r\n                            - Gustavo Casco\r\n                            - Bruno Nakamura\r\n                            - Pedro Cecílio\r\n                            - Flávio Pires\r\n\r\nDescrição do projeto:\r\n\r\n",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Nivel de Inglês",
+			"item": [
+				{
+					"name": "Listar Níveis",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/NivelIngles",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"NivelIngles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Buscar um nível por ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/NivelIngles/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"NivelIngles",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar nível",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ingles\": \"Testivel\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/NivelIngles",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"NivelIngles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Atualizar um nivel de inglês",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ingles\": \"nivelAtualizado\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/NivelIngles/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"NivelIngles",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar um nível de inglês",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/NivelIngles/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"NivelIngles",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"description": "Requisições da tabela Nivel de Ingles.",
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Tipo de Vagas",
+			"item": [
+				{
+					"name": "Listar tipos de vagas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/TipoVaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"TipoVaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Buscar um tipo por ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/TipoVaga/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"TipoVaga",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar um novo tipo",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nomeTipoVaga\": \"CLT\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/TipoVaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"TipoVaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Atualizar um tipo de vaga",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nomeTipoVaga\": \"CLT atualizado\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/TipoVaga/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"TipoVaga",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar um tipo de vaga",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/TipoVaga/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"TipoVaga",
+								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"description": "Requisições da tabela Nivel de Ingles.",
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Benefícios da vaga",
+			"item": [
+				{
+					"name": "Listar benefícios",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/BeneficiosXVaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"BeneficiosXVaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Buscar benefícios por ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/BeneficioXVaga/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"BeneficioXVaga",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar benefícios",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idBeneficioVaga\": 1,\r\n    \"idBeneficio\": 1,\r\n    \"idVaga\": 1,\r\n    \"idBeneficioNavigation\": null,\r\n    \"idVagaNavigation\": null\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/BeneficioXVaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"BeneficioXVaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Atualizar benefícios",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idBeneficioVaga\": 1,\r\n    \"idBeneficio\": 1,\r\n    \"idVaga\": 1,\r\n    \"idBeneficioNavigation\": null,\r\n    \"idVagaNavigation\": null\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/BeneficioXVaga/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"BeneficioXVaga",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar benefícios",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/BeneficioXVaga/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"BeneficioXVaga",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"description": "Requisições da tabela Nivel de Ingles.",
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Vaga",
+			"item": [
+				{
+					"name": "Listar vagas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/Vaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Vaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Buscar uma vaga por ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/Vaga/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Vaga",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar uma vaga",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"idVaga\": 1,\r\n        \"nomeVaga\": \"Estagio fullstack\",\r\n        \"descricaoAtividade\": \"dhfgegfehgf\",\r\n        \"dataInicio\": \"2020-08-31T00:00:00\",\r\n        \"dataFinal\": \"2020-09-18T00:00:00\",\r\n        \"idEmpresa\": 1,\r\n        \"idTipoVaga\": 3,\r\n        \"idEmpresaNavigation\": null,\r\n        \"idTipoVagaNavigation\": null,\r\n        \"beneficioXVaga\": [],\r\n        \"inscricao\": [],\r\n        \"requisitoXvaga\": []\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/Vaga",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Vaga"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Atualizar uma vaga",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n        \"idVaga\": 1,\r\n        \"nomeVaga\": \"Estagio fullstack\",\r\n        \"descricaoAtividade\": \"dhfgegfehgf\",\r\n        \"dataInicio\": \"2020-08-31T00:00:00\",\r\n        \"dataFinal\": \"2020-09-18T00:00:00\",\r\n        \"idEmpresa\": 1,\r\n        \"idTipoVaga\": 3,\r\n        \"idEmpresaNavigation\": null,\r\n        \"idTipoVagaNavigation\": null,\r\n        \"beneficioXVaga\": [],\r\n        \"inscricao\": [],\r\n        \"requisitoXvaga\": []\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/Vaga/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Vaga",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar uma vaga",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/Vaga/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"Vaga",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"description": "Requisições da tabela Nivel de Ingles.",
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}

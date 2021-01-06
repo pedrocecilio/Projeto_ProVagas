@@ -1,0 +1,14 @@
+.entrada {
+    width: 550px;
+    height: 40px;
+    border: 1px solid #a9a9a9;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 5px 5px #dcdcdc;
+    margin: 20px 0px;
+    padding: 0.5rem;
+}
+
+label {
+    font-size: 20px;
+    font-weight: normal;
+}

@@ -1,0 +1,40 @@
+.login{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8.4vh;
+    margin-bottom: 8.4vh;
+    margin-left: 8vh;
+}
+
+.login-dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8vh;
+}
+
+.login-dados .button{
+    background-color: #ED1F24;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 5vh;
+}
+
+.login-dados h1{
+    margin-bottom: 5vh;
+}
+
+.login .button {
+    width: 180px;
+    height: 58px;
+    font-weight: bold;
+    border: none;
+}
+
+.login .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

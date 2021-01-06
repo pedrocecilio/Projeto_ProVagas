@@ -1,0 +1,607 @@
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fic\Music\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\Guilherme Casco\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.genruntimeconfig.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\backup-provagas\ProVagas\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\44781915817\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.genruntimeconfig.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel\Desktop\Projeto_ProVagas\Backend\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\daniel\Desktop\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.genruntimeconfig.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\51628550813\Desktop\API.teste\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.exe
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.deps.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.runtimeconfig.dev.json
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.pdb
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csprojAssemblyReference.cache
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.Manifest.cache
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\staticwebassets\Api.Provagas.StaticWebAssets.xml
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfoInputs.cache
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.AssemblyInfo.cs
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.RazorTargetAssemblyInfo.cache
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.csproj.CopyComplete
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.dll
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.xml
+C:\Users\51628550813\Desktop\a\Api.Provagas\Api.Provagas\obj\Debug\netcoreapp3.1\Api.Provagas.pdb

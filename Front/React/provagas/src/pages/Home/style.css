@@ -1,0 +1,138 @@
+.slogan {
+    display: flex;
+    justify-content: space-around;
+    margin: 10vh;
+}
+
+.botao-slogan {
+    display: flex;
+    justify-content: space-around;
+}
+
+.slogan img {
+    height: 60vh;
+    padding: 10px;
+}
+
+.texto-slogan {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 800px;
+}
+
+.texto-slogan h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.texto-slogan p {
+    font-size: 1.2em;
+        display: block;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: justify;
+    
+}
+
+.home .button {
+    width: 180px;
+    height: 58px;
+    font-weight: bold;
+    border: none;
+}
+
+.home .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home input {
+    width: 400px;
+    height: 50px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.home #bt2 {
+    background-color: #592926;
+}
+
+.vantagens {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8em;
+    padding: 0 5rem;
+}
+
+.candidato,
+.empresa,
+.vaga {
+    border: solid 0.2em;
+    border-color: #C4C4C4;
+    border-radius: 10px;
+    width: 400px;
+    padding: 4em;
+}
+
+.vantagens h2,
+.ultimasvagas h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    color: #ED1F24;
+}
+
+.vantagens li {
+    margin-top: 2vh;
+    color: #000000;
+}
+
+.vantagens img {
+    width: 280px;
+}
+
+.ultimasvagas {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.vaga {
+    list-style: none;
+    margin-top: 6vh;
+    margin-right: 5vh;
+    margin-bottom: 10vh;
+}
+
+.algumasvagas {
+    display: flex;
+}
+
+.ultimasvagas li,
+h4,
+#btnvaga1 {
+    margin-top: 4vh;
+}
+
+.ultimasvagas h3,
+h4 {
+    margin-bottom: 4vh;
+    display: flex;
+    justify-content: center;
+}
+
+.ultimasvagas img {
+    margin-right: 3vh;
+}
+
+.mudabotao {
+    text-decoration: none;
+}

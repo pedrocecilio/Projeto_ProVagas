@@ -1,0 +1,24 @@
+.cadastroAdmin{
+    padding-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cadastro h1, h4{
+    margin: 1rem 0;
+}
+.box-banner-colaborador{
+    display:flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.input-duplo{
+    display: flex;
+    /* background-color: lightgreen; */
+    width: 40vw;
+    height: 12vh;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+}

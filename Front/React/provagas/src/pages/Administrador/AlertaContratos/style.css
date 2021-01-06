@@ -1,0 +1,9 @@
+.b{
+    padding-top: 30vh;
+    padding-left: 250px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

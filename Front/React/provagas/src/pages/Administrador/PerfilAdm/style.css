@@ -1,0 +1,26 @@
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30vh;
+    padding-left: 5vw;
+    height: 100vh;
+}
+.cadastro h1, h4{
+    margin: 1rem 0;
+}
+.box-banner-colaborador{
+    display:flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.input-duplo{
+    display: flex;
+    /* background-color: lightgreen; */
+    width: 40vw;
+    height: 12vh;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+}

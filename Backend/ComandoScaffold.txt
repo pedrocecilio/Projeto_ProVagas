@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=LAB08DESK301\SQLEXPRESS; Initial Catalog=ProVagas; Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context ProVagasContext

@@ -1,0 +1,64 @@
+.tipo-cadastro-container{
+    height: 55vh;
+    /* background-color: darksalmon; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 2.5rem;
+    
+}
+
+.tipo-cadastro-titulo{
+    font-weight: lighter;
+    font-size: 1.5rem;
+}
+
+.container-cards{
+    width: 55vw;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-titulo{
+    /* text-transform: uppercase; */
+    font-weight: lighter;
+}
+
+.card{
+    /* border: .1px solid #888888; */
+    box-shadow: 1px 4px 10px 1px #cac5c5;
+    border-radius: .5rem;
+    width: 14vw;
+    height: 30vh;
+    /* background-color: coral; */
+    display: flex;
+    margin: 0 .5rem;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.card:hover{
+    width: 15vw;
+    height: 31vh;
+    color: #ED1F24;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.card-image{
+    width: 9vw;
+}
+
+.ftr .footer {
+    margin-top: 8%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}

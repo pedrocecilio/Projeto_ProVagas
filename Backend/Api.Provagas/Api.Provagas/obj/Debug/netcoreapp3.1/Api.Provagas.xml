@@ -1,0 +1,861 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.Provagas</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.Get">
+            <summary>
+            Listar todos administradores
+            </summary>
+            <returns> Listar todos administradores</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.GetEmpresa">
+            <summary>
+            Listar todas empresas através dos administradores
+            </summary>
+            <returns>Listar todas empresas através dos administradores</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.GetCandidato">
+            <summary>
+            Listar todos candidatos através dos administradores
+            </summary>
+            <returns>Listar todos candidatos através dos administradores</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.Get(System.Int32)">
+            <summary>
+            Listar todos os administradores pelo Id
+            </summary>
+            <param name="id">Id do administrador que será buscado</param>
+            <returns>Retorna uma lista de administrador pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.GetCandidato(System.Int32)">
+            <summary>
+            Listar os candidatos pelo Id através dos administradores
+            </summary>
+            <param name="id">Id do cadndaito que será buscado</param>
+            <returns>Retorna uma lista de candidatos pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.GetEmpresa(System.Int32)">
+            <summary>
+            Listar as empresas pelo Id através dos administradores
+            </summary>
+            <param name="id">Id da empresa que será buscado</param>
+            <returns>Retorna uma lista de empresas pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.Post(Api.Provagas.Domains.Candidato)">
+            <summary>
+            Cadastrar um novo candidato pelo Id através do administrador
+            </summary>
+            <param name="cand"></param>
+            <returns>Retorna o cadastro de um novo candidato pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.PostAdministrador(Api.Provagas.Domains.Administrador)">
+            <summary>
+            Cadastrar um novo administrador
+            </summary>
+            <param name="adm"></param>
+            <returns>Retorna o cadastro de um novo administrador</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.PostEmpresa(Api.Provagas.Domains.Empresa)">
+            <summary>
+            Cadastrar uma nova empresa através do administrador
+            </summary>
+            <param name="emp"></param>
+            <returns>Retorna o cadastro de uma nova empresa</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.Put(System.Int32,Api.Provagas.Domains.Administrador)">
+            <summary>
+            Atualizar o administrador pelo Id
+            </summary>
+            <param name="id">Id do administrador que será buscado</param>
+            <param name="administrador"></param>
+            <returns>Retorna o administrador atualizado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.PutCandidato(System.Int32,Api.Provagas.Domains.Candidato)">
+            <summary>
+            Atualizar os candidatos pelo Id através do administrador
+            </summary>
+            <param name="id">Id do candidato que será buscado</param>
+            <param name="can"></param>
+            <returns>Retorna o candidato atualizado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.PutEmpresa(System.Int32,Api.Provagas.Domains.Empresa)">
+            <summary>
+            Atualizar a empresa pelo Id através do administrador
+            </summary>
+            <param name="id">Id da empresa que será buscado</param>
+            <param name="emp"></param>
+            <returns>Retorna a empresa atualizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.Delete(System.Int32)">
+            <summary>
+            Deleta um administrador pelo Id
+            </summary>
+            <param name="id">Id do administrador que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.DeleteCandidato(System.Int32)">
+            <summary>
+            Deletar um candidato pelo Id através do administrador
+            </summary>
+            <param name="id">Id do candidato que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.AdministradoresController.DeleteEmpresa(System.Int32)">
+            <summary>
+            Deletar uma empresa pelo Id através do administrador
+            </summary>
+            <param name="id">Id da empresa que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosController.Get">
+            <summary>
+            Listar os benefícios
+            </summary>
+            <returns>Retorna uma lista e um status code 200</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosController.GetById(System.Int32)">
+            <summary>
+            Buscar um benefício pelo ID
+            </summary>
+            <param name="id">Id do benefício que será buscado</param>
+            <returns>Retorna um benefício específico pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosController.Post(Api.Provagas.Domains.Beneficio)">
+            <summary>
+            Cadastrar um novo benefício
+            </summary>
+            <param name="novoBeneficio">Objeto novoBeneficio que será cadastrado</param>
+            <returns>Retorna um status code 201</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosController.Put(System.Int32,Api.Provagas.Domains.Beneficio)">
+            <summary>
+            Atualiza um benefício
+            </summary>
+            <param name="id">Id do benefício que será buscado</param>
+            <param name="beneficioAtualizado">Objeto beneficioAtualizado que será alterado</param>
+            <returns>Retorna um status code 204</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosController.Delete(System.Int32)">
+            <summary>
+            Deletar um benefício
+            </summary>
+            <param name="id">Id do benefício que será buscado</param>
+            <returns>Retorna um status code 204</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosXVagasController.Get">
+            <summary>
+            Listar os benefícios de uma vaga
+            </summary>
+            <returns>Lista com todos os benefícios da vaga</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosXVagasController.GetIDD(System.Int32)">
+            <summary>
+            Buscar benefícios por id
+            </summary>
+            <param name="id">Id do benefício a ser buscado</param>
+            <returns>Benefício buscado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosXVagasController.Post(Api.Provagas.Domains.BeneficioXvaga)">
+            <summary>
+            Cadastrar benefícios de uma vaga
+            </summary>
+            <param name="beneficioVaga">Novos benefícios</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosXVagasController.Put(System.Int32,Api.Provagas.Domains.BeneficioXvaga)">
+            <summary>
+            Atualizar benefícios de uma vaga
+            </summary>
+            <param name="id">Id do benefício que será atualizado</param>
+            <param name="novoTipo">Benefícos atualizados</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.BeneficiosXVagasController.Delete(System.Int32)">
+            <summary>
+            Deletar benefícios de uma vaga
+            </summary>
+            <param name="id">Id dos benefícios que serão deletados</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.CandidatosController.Get">
+            <summary>
+            Listar os candidatos
+            </summary>
+            <returns>Lista com todos os candidatos</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.CandidatosController.Get(System.Int32)">
+            <summary>
+            Buscar candidatos por id
+            </summary>
+            <param name="id">Id do benefício a ser buscado</param>
+            <returns>Candidato buscado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.CandidatosController.Post(Api.Provagas.Domains.Candidato)">
+            <summary>
+            Cadastrar um novo candidato
+            </summary>
+            <param name="candidato"></param>
+            <returns>Retorna o cadastro de um novo candidato</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.CandidatosController.Put(System.Int32,Api.Provagas.Domains.Candidato)">
+            <summary>
+            Atualizar um candidato pelo Id
+            </summary>
+            <param name="id">Id do candidato que será buscado</param>
+            <param name="Candidatoatt"></param>
+            <returns>Retorna o candidato atualizado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.CandidatosController.Delete(System.Int32)">
+            <summary>
+            Deletar um candidato pelo Id
+            </summary>
+            <param name="id">Id do candidato que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EmpresasController.Get">
+            <summary>
+            Listar os empresa
+            </summary>
+            <returns>Lista com todos os empresa</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EmpresasController.Get(System.Int32)">
+            <summary>
+            Buscar empresa por id
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EmpresasController.Post(Api.Provagas.Domains.Empresa)">
+            <summary>
+            Cadastrar um novo candidato
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EmpresasController.Put(System.Int32,Api.Provagas.Domains.Empresa)">
+            <summary>
+            Atualizar candidato
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EmpresasController.Delete(System.Int32)">
+            <summary>
+            Deletar candidato
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EnderecoController.Get">
+            <summary>
+            Listar todos os endereços 
+            </summary>
+            <returns>Retorna uma lista com os endereços</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EnderecoController.Get(System.Int32)">
+            <summary>
+            Listar endereços pelo Id
+            </summary>
+            <param name="id">Id do endereço que será buscado</param>
+            <returns>Retorna uma lista de endereços pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EnderecoController.Post(Api.Provagas.Domains.Endereco)">
+            <summary>
+            Cadastrar um novo endereço
+            </summary>
+            <param name="ende"></param>
+            <returns>Retorna o cadastro de um novo endereço</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EnderecoController.Put(System.Int32,Api.Provagas.Domains.Endereco)">
+            <summary>
+            Atualizar um endereço pelo Id
+            </summary>
+            <param name="id">Id do endereço que será buscado</param>
+            <param name="enderecoatt"></param>
+            <returns>Retorna o endereço atualizado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EnderecoController.Delete(System.Int32)">
+            <summary>
+            Deletar um endereço pelo Id
+            </summary>
+            <param name="id">Id do endereço que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EstagiosController.Get">
+            <summary>
+            Listar os estagios
+            </summary>
+            <returns>Retorna uma lista e um status code 200</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EstagiosController.GetById(System.Int32)">
+            <summary>
+            Buscar um estágio pelo ID
+            </summary>
+            <param name="id">Id do estágio que será buscado</param>
+            <returns>Retorna um estágio específico pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EstagiosController.Post(Api.Provagas.Domains.Estagio)">
+            <summary>
+            Cadastrar um novo estágio
+            </summary>
+            <param name="novoEstagio">Objeto novoEstagio que será cadastrado</param>
+            <returns>Retorna um status code 201</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EstagiosController.Put(System.Int32,Api.Provagas.Domains.Estagio)">
+            <summary>
+            Atualiza um estágio
+            </summary>
+            <param name="id">Id do estágio que será buscado</param>
+            <param name="estagioAtualizado">Objeto estagioAtualizado que será alterado</param>
+            <returns>Retorna um status code 204</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.EstagiosController.Delete(System.Int32)">
+            <summary>
+            Deletar um estágio
+            </summary>
+            <param name="id">Id do estágio que será buscado</param>
+            <returns>Retorna um status code 204</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.ExperienciasProfissionaisController.Get">
+            <summary>
+            Listar as experiencias profissionais do candidato
+            </summary>
+            <returns>Retorna uma lista das experiencias profissionais</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.ExperienciasProfissionaisController.Get(System.Int32)">
+            <summary>
+            Listar as experiencias profissionais do candidato pelo Id
+            </summary>
+            <param name="id">Id da experiencia profissional que será buscado</param>
+            <returns>Retorna uma lista de experiencias profissionais pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.ExperienciasProfissionaisController.Post(Api.Provagas.Domains.ExperienciaProfissional)">
+            <summary>
+            Cadastrar uma nova experiencia profissional
+            </summary>
+            <param name="exp"></param>
+            <returns>Retorna o cadastro de uma nova experiencia profissional</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.ExperienciasProfissionaisController.Put(System.Int32,Api.Provagas.Domains.ExperienciaProfissional)">
+            <summary>
+            Atualizar uma experiencia profissional pelo Id
+            </summary>
+            <param name="id">Id da experiencia profissional que será buscado</param>
+            <param name="experiAtt"></param>
+            <returns>Retorna uma experiência profissional atualizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.ExperienciasProfissionaisController.Delete(System.Int32)">
+            <summary>
+            Deletar uma experiencia profissional pelo Id
+            </summary>
+            <param name="id">Id da experiencia profissional que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesController.Get">
+            <summary>
+            Lista todas as habilidades
+            </summary>
+            <returns>Uma lista de habilidades</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesController.GetById(System.Int32)">
+            <summary>
+            Busca uma habilidade através do ID
+            </summary>
+            <param name="id">ID da habilidade que será buscada</param>
+            <returns>A habilidade buscada e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesController.Post(Api.Provagas.Domains.Habilidade)">
+            <summary>
+            Cadastra uma nova habilidade
+            </summary>
+            <param name="novaHabilidade">Objeto contendo as informações da nova habilidade</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesController.Put(System.Int32,Api.Provagas.Domains.Habilidade)">
+            <summary>
+            Atualiza uma habilidade existente
+            </summary>
+            <param name="id">ID da habilidade que será atualizada</param>
+            <param name="habilidadeAtualizada">Objeto contendo as novas informações da habilidade</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesController.Delete(System.Int32)">
+            <summary>
+            Deleta uma habilidade existente
+            </summary>
+            <param name="id">ID da habilidade que será deletada</param>
+            <returns>Um status code 202 - Accepted</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesXCandidatosController.Get">
+            <summary>
+            Lista todas as habilidades do candidato
+            </summary>
+            <returns>Uma lista de habilidades do candidato</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesXCandidatosController.GetById(System.Int32)">
+            <summary>
+            Busca uma habilidade de um candidato através do ID
+            </summary>
+            <param name="id">ID da habilidadeXcandidato que será buscada</param>
+            <returns>A habilidade buscada e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesXCandidatosController.Put(System.Int32,Api.Provagas.Domains.HabilidadeXcandidato)">
+            <summary>
+            Atualiza uma habilidadeXcandidato existente
+            </summary>
+            <param name="id">ID da habilidade que será atualizada</param>
+            <param name="habilidadeXCandidatoAtualizada">Objeto contendo as novas informações da habilidade</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.HabilidadesXCandidatosController.Delete(System.Int32)">
+            <summary>
+            Deleta uma habilidadeXcandidato existente
+            </summary>
+            <param name="id">ID da habilidade que será deletada</param>
+            <returns>Um status code 202 - Accepted</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.InscricoesController.Get">
+            <summary>
+            Lista todas as inscrições
+            </summary>
+            <returns>Uma lista de inscrições e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.InscricoesController.GetById(System.Int32)">
+            <summary>
+            Busca uma inscrição através do ID
+            </summary>
+            <param name="id">ID da inscrição que será buscada</param>
+            <returns>A inscrição buscada e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.InscricoesController.Post(Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Cadastra uma nova inscrição
+            </summary>
+            <param name="novaInscricao">Objeto contendo as informações da nova inscrição</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.InscricoesController.Put(System.Int32,Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Atualiza uma inscrição existente
+            </summary>
+            <param name="id">ID da inscrição que será atualizada</param>
+            <param name="inscricaoAtualizada">Objeto com as informações atualizadas da inscrição</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.InscricoesController.Delete(System.Int32)">
+            <summary>
+            Deleta uma inscrição existente
+            </summary>
+            <param name="id">ID da inscrição que será deletada</param>
+            <returns>Um status code 202 - Accepted</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.LoginController.Post(Api.Provagas.ViewModels.LoginViewModels)">
+            <summary>
+            Realizar login
+            </summary>
+            <param name="login"></param>
+            <returns>Retorna o token do login</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.StatusInscricoesController.Get">
+            <summary>
+            Lista todos os status de inscrição
+            </summary>
+            <returns>Uma lista de status de inscrições e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.StatusInscricoesController.GetById(System.Int32)">
+            <summary>
+            Busca um status de inscrição através do ID
+            </summary>
+            <param name="id">ID do status de inscrição que será buscado</param>
+            <returns>O status de inscrição buscado e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.StatusInscricoesController.Post(Api.Provagas.Domains.StatusInscricao)">
+            <summary>
+            Cadastra um novo status de inscrição
+            </summary>
+            <param name="novoStatusInscricao">Objeto contendo as informações do novo status de inscrição</param>
+            <returns>Um status code Ok e uma mensagem personalizada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.StatusInscricoesController.Delete(System.Int32)">
+            <summary>
+            Deleta um status de inscrição existente
+            </summary>
+            <param name="id">ID do status de inscrição que será deletado</param>
+            <returns>Um status code 202 - Accepted</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.TiposVagasController.Get">
+            <summary>
+            Listar todos os tipos de vagas
+            </summary>
+            <returns>Lista com todos os tipos de vagas</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.TiposVagasController.Get(System.Int32)">
+            <summary>
+            Buscar um tipo de vaga por Id
+            </summary>
+            <param name="id">Id do tipo a ser buscado</param>
+            <returns>Um tipo de Vaga</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.TiposVagasController.Post(Api.Provagas.Domains.TipoVaga)">
+            <summary>
+            Cadastrar um novo tipo de vaga
+            </summary>
+            <param name="tipoVaga">Novo tipo de vaga</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.TiposVagasController.Put(System.Int32,Api.Provagas.Domains.TipoVaga)">
+            <summary>
+            Atualizar um tipo de vaga
+            </summary>
+            <param name="id">Id do tipo de vaga a ser atualizado</param>
+            <param name="novoTipo">Tipo de vaga atualizado</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.TiposVagasController.Delete(System.Int32)">
+            <summary>
+            Deletar um tipo de vaga
+            </summary>
+            <param name="id">Id do tipo que será deletado</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.UsuariosController.Get">
+            <summary>
+            Listar todos os usuarios
+            </summary>
+            <returns>Retorna uma lista com os usuarios</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.UsuariosController.Get(System.Int32)">
+            <summary>
+            Listar todos os usuarios pelo Id
+            </summary>
+            <param name="id">Id do usuario que será buscado</param>
+            <returns>Retorna uma lista de usuarios pelo Id</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.UsuariosController.Post(Api.Provagas.Domains.Usuario)">
+            <summary>
+            Cadastrar um novo usuario
+            </summary>
+            <param name="usuario"></param>
+            <returns>Retorna o cadastro de um novo usuario</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.UsuariosController.Put(System.Int32,Api.Provagas.Domains.Usuario)">
+            <summary>
+            Atualizar um usuario pelo Id
+            </summary>
+            <param name="id">Id do usuario que será buscado</param>
+            <param name="usuarioAtualizado"></param>
+            <returns>Retorna o usuario atualizado</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.UsuariosController.Delete(System.Int32)">
+            <summary>
+            Deletar um usuario pelo Id
+            </summary>
+            <param name="id">Id do usuario que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.VagasController.Get">
+            <summary>
+            Listar todas as vagas
+            </summary>
+            <returns>Lista com todas as vagas</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.VagasController.Get(System.Int32)">
+            <summary>
+            Buscar uma vaga por id
+            </summary>
+            <param name="id">Id da vaga a ser buscada</param>
+            <returns>Vaga buscada</returns>
+        </member>
+        <member name="M:Api.Provagas.Controllers.VagasController.Post(Api.Provagas.Domains.Vaga)">
+            <summary>
+            Cadastrar uma nova vaga
+            </summary>
+            <param name="vaga">Nova vaga</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.VagasController.Put(System.Int32,Api.Provagas.Domains.Vaga)">
+            <summary>
+            Atualizar dados da vaga
+            </summary>
+            <param name="id">Id da vaga que será atualizada</param>
+            <param name="novaVaga">Dados da atualizados da vaga</param>
+        </member>
+        <member name="M:Api.Provagas.Controllers.VagasController.Delete(System.Int32)">
+            <summary>
+            Deletar uma vaga
+            </summary>
+            <param name="id">Id da vaga que será deletada</param>
+        </member>
+        <member name="T:Api.Provagas.Interfaces.IInscricaoRepository">
+            <summary>
+            Interface responsável pelo InscricaoRepository
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IInscricaoRepository.Listar">
+            <summary>
+            Lista todas as inscrições
+            </summary>
+            <returns>Uma lista de inscrições</returns>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IInscricaoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma inscrição através do Id
+            </summary>
+            <param name="id">Id da inscrição que será buscada</param>
+            <returns>Uma inscrição buscada</returns>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IInscricaoRepository.Cadastrar(Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Cadastra uma nova inscrição
+            </summary>
+            <param name="novaInscricao">Objeto contendo as informações da nova inscrição</param>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IInscricaoRepository.Atualizar(System.Int32,Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Atualiza uma inscrição
+            </summary>
+            <param name="id">Id da inscrição que será atualizada</param>
+            <param name="inscricaoAtualizada">Objeto com as informações atualizadas</param>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IInscricaoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma incrição existente
+            </summary>
+            <param name="id">Id da inscrição que será deletada</param>
+        </member>
+        <member name="T:Api.Provagas.Interfaces.IStatusInscricaoRepository">
+            <summary>
+            Interface responsável pelo StatusInscricaoRepository
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IStatusInscricaoRepository.Listar">
+            <summary>
+            Lista todos os status de inscrição
+            </summary>
+            <returns>Uma lista de status de inscrição</returns>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IStatusInscricaoRepository.Cadastrar(Api.Provagas.Domains.StatusInscricao)">
+            <summary>
+            Cadastra um novo Status de inscrição
+            </summary>
+            <param name="novoStatusInscricao">Objeto contendo as informações do novo status de inscrição</param>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IStatusInscricaoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um status de inscrição existente
+            </summary>
+            <param name="id">Id do status de inscrição que será deletado</param>
+        </member>
+        <member name="M:Api.Provagas.Interfaces.IStatusInscricaoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um status de inscrição através do ID
+            </summary>
+            <param name="id">ID do status de inscrição que será buscado</param>
+            <returns>O status de inscrição buscado</returns>
+        </member>
+        <member name="T:Api.Provagas.Repositories.InscricaoRepository">
+            <summary>
+            Repositório responsável pelas inscrições
+            </summary>
+        </member>
+        <member name="F:Api.Provagas.Repositories.InscricaoRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Repositories.InscricaoRepository.Atualizar(System.Int32,Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Atualiza uma inscrição existente
+            </summary>
+            <param name="id">Id da inscrição que será atualizada</param>
+            <param name="inscricaoAtualizada">Objeto com as novas informações</param>
+        </member>
+        <member name="M:Api.Provagas.Repositories.InscricaoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma inscrição através do Id
+            </summary>
+            <param name="id">Id da inscrição que será buscada</param>
+            <returns>A inscrição buscada</returns>
+        </member>
+        <member name="M:Api.Provagas.Repositories.InscricaoRepository.Cadastrar(Api.Provagas.Domains.Inscricao)">
+            <summary>
+            Cadastra uma nova inscrição
+            </summary>
+            <param name="novaInscricao">Objeto contendo as informações da nova inscrição</param>
+        </member>
+        <member name="M:Api.Provagas.Repositories.InscricaoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma inscrição existente
+            </summary>
+            <param name="id">Id da inscrição que será deletada</param>
+        </member>
+        <member name="M:Api.Provagas.Repositories.InscricaoRepository.Listar">
+            <summary>
+            Lista todas as inscrições
+            </summary>
+            <returns>Uma lista de inscrições</returns>
+        </member>
+        <member name="T:Api.Provagas.Repositories.StatusInscricaoRepository">
+            <summary>
+            Repositório responsável pelo StatusInscricaoRepository
+            </summary>
+        </member>
+        <member name="F:Api.Provagas.Repositories.StatusInscricaoRepository.ctx">
+            <summary>
+            Objeto contexto por onde serão chamados os métodos do EF Core
+            </summary>
+        </member>
+        <member name="M:Api.Provagas.Repositories.StatusInscricaoRepository.Cadastrar(Api.Provagas.Domains.StatusInscricao)">
+            <summary>
+            Cadastra um novo status de inscrição
+            </summary>
+            <param name="novoStatusInscricao">Objeto contendo as informações do novo status de inscrição</param>
+        </member>
+        <member name="M:Api.Provagas.Repositories.StatusInscricaoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um status de inscrição existente
+            </summary>
+            <param name="id">Id do status de inscrição que será deletado</param>
+        </member>
+        <member name="M:Api.Provagas.Repositories.StatusInscricaoRepository.Listar">
+            <summary>
+            Lista todos os status de inscrição
+            </summary>
+            <returns>Uma lista com os status de inscrição</returns>
+        </member>
+        <member name="M:Api.Provagas.Repositories.StatusInscricaoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um status de inscrição através do ID
+            </summary>
+            <param name="id">ID do status de inscrição quer será buscada</param>
+            <returns>O status de inscrição buscado</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.NiveisEscolaridadesController.Get">
+            <summary>
+            Listar todos os niveis de escolaridade
+            </summary>
+            <returns>Retorna uma lista com os niveis de escolaridade</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.NiveisEscolaridadesController.Get(System.Int32)">
+            <summary>
+            Listar uma lista de niveis de escolaridade pelo Id
+            </summary>
+            <param name="id">Id dos niveis de escolaridade que será buscado</param>
+            <returns>Retorna uma lista de niveis de escolaridade pelo Id</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.NiveisEscolaridadesController.Post(Api.Provagas.Domains.NivelEscolaridade)">
+            <summary>
+            Cadastrar um novo nivel de escolaridade
+            </summary>
+            <param name="nivel"></param>
+            <returns>Retorna o cadastro de um novo nivel de escolaridade</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.NiveisEscolaridadesController.Put(System.Int32,Api.Provagas.Domains.NivelEscolaridade)">
+            <summary>
+            Atualizar um nivel de escolaridade pelo Id
+            </summary>
+            <param name="id">Id dos niveis de escolaridade que será buscado</param>
+            <param name="nivelcadastrado"></param>
+            <returns>Retorna um nivel de escolaridade atualizado</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.NiveisEscolaridadesController.Delete(System.Int32)">
+            <summary>
+            Deletar um nivel de escolaridade pelo Id
+            </summary>
+            <param name="id">Id dos niveis de escolaridade que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosController.Get">
+            <summary>
+            Lsitar todos os requisitos
+            </summary>
+            <returns>Retorna uma lista com os requisitos</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosController.Get(System.Int32)">
+            <summary>
+            Listar os requisitos pelo Id
+            </summary>
+            <param name="id">Id do requisito que será buscado</param>
+            <returns>Retorna uma lista com os requisitos pelo Id</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosController.Post(Api.Provagas.Domains.Requisito)">
+            <summary>
+            Cadastrar um novo requisito
+            </summary>
+            <param name="requisito"></param>
+            <returns>Retorna o cadastro de um novo requisito</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosController.Put(System.Int32,Api.Provagas.Domains.Requisito)">
+            <summary>
+            Atualizar um requisito pelo Id
+            </summary>
+            <param name="id">Id do requisito que será buscado</param>
+            <param name="requisitocadastrado"></param>
+            <returns>Retorna um requisito atualizado</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosController.Delete(System.Int32)">
+            <summary>
+            Deletar um requisito pelo Id
+            </summary>
+            <param name="id">Id do requisito que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosXVagasController.Get">
+            <summary>
+            Listar os requisitos e as vagas
+            </summary>
+            <returns>Retorna uma lista com os requisitos e as vagas</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosXVagasController.Get(System.Int32)">
+            <summary>
+            Listar os requisitos e vagas pelo Id
+            </summary>
+            <param name="id">Id do requisitoXvaga que será buscado</param>
+            <returns>Retorna uma lista com os requisitosXvagas pelo Id</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosXVagasController.Post(Api.Provagas.Domains.RequisitoXvaga)">
+            <summary>
+            Cadastrar um novo requisitoXvaga
+            </summary>
+            <param name="requisitoxvaga"></param>
+            <returns>Retorna o cadastro de um novo requisitoXvaga</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosXVagasController.Put(System.Int32,Api.Provagas.Domains.RequisitoXvaga)">
+            <summary>
+            Atualizar um requisitoXvaga pelo Id
+            </summary>
+            <param name="id">Id do requisitoXvaga que será buscado</param>
+            <param name="requisitoxvagaCadastrado"></param>
+            <returns>Retorna o requisitoXvaga atualizado</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.RequisitosXVagasController.Delete(System.Int32)">
+            <summary>
+            Deletar um requisitoXvaga pelo Id
+            </summary>
+            <param name="id">Id do requisitoXvaga que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.TiposUsuariosController.Get">
+            <summary>
+            Listar todos os tipos de usuario
+            </summary>
+            <returns>Retorna uma lista com os tipos de usuario</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.TiposUsuariosController.Get(System.Int32)">
+            <summary>
+            Listar os tipos de usuario pelo Id
+            </summary>
+            <param name="id">Id do tipo de usuario que será buscado</param>
+            <returns>Retorna uma lista de tipos de usuario pelo Id</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.TiposUsuariosController.Post(Api.Provagas.Domains.TipoUsuario)">
+            <summary>
+            Cadastrar um novo tipo de usuario
+            </summary>
+            <param name="tipouser"></param>
+            <returns>Retorna o cadastro de um novo tipo de usuario</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.TiposUsuariosController.Put(System.Int32,Api.Provagas.Domains.TipoUsuario)">
+            <summary>
+            Atualizar um tipo de usuario pelo Id
+            </summary>
+            <param name="id">Id do tipo de usuario que será buscado</param>
+            <param name="tipoUsercadastrado"></param>
+            <returns>Retorna o tipo de usuario atualizado</returns>
+        </member>
+        <member name="M:ProVagas.Controllers.TiposUsuariosController.Delete(System.Int32)">
+            <summary>
+            Deletar um tipo de usuario pelo Id
+            </summary>
+            <param name="id">Id do tipo de usuario que será buscado</param>
+            <returns>Retorna vazio</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+.select-input{
+    width: 18.3vw;
+    height: 35px;
+    border: .7px solid grey;
+    box-sizing: border-box;
+    border-radius: .3rem;
+    padding: 0 .4rem;
+}
+
+.box-select-label{
+    display: flex;
+    flex-direction: column;
+}
